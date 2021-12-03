@@ -1,1 +1,4 @@
-squash pr
+squaosh pr
+
+
+sq 2
